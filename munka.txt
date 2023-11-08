@@ -1,3 +1,8 @@
 első gép,1. munka
+<<<<<<< HEAD
 2. gép,2 munka
 2. gép, 4.munka 
+=======
+2. gép,2 munka 
+1.gép,3.munka
+>>>>>>> 21ee03c518081483b0f971ee2364cacfbeb308f4
